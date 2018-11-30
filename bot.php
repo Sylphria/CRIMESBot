@@ -1,7 +1,7 @@
 <?php
-$chanel_id='1554124381';
-$chanel_secret='4dcaf6dcf554a105cf64aaaf966cf7c7';
-$access_token='jgAhX6d4MS4O+oEZrL8xfb12vh6Zq5mKCfIx5F4pjdrBRrlhUaj2HChnWnmC55AAIkULSUOFFJy8kbdBil3LJLeHMzsBMjhWqZe9MqLtOmj1UVewSBSA0TdAC8fAeASRSOlLDZ4xYXW+ECxm+xbvogdB04t89/1O/w1cDnyilFU=';
+$chanel_id='1626400845';
+$chanel_secret='fa1ca0d62a7b8d256770b0c05b15e2b1';
+$access_token='5qEwwppGreEL/AJpKWMUk8B6zOkPdMbB1Yk0Ii/qD2K6YgMA+34mHFqALlPknlhKUlwbUEbvPNO+7Y9eo9pEmZPviLb0P3tIrgZ1FHiaXA3X/0sBqKEiPSR78RRhqHm/fF1Nx7D4FkL+2cfIee3XPgdB04t89/1O/w1cDnyilFU=';
 $uid='U276b787d18de24f2979a0fefd7cb1457';
 
 
